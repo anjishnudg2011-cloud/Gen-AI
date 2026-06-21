@@ -13,6 +13,7 @@ MODEL = "gemini-2.5-flash"
 @tool
 def get_product_price(product: str) -> float:
     """Look up the price of a product in the catalog."""
+    product = product.lower()
     print(f"    >> Executing get_product_price(product='{product}')")
     prices = {"laptop": 1299.99, "headphones": 149.95, "keyboard": 89.50}
     return prices.get(product, 0)
