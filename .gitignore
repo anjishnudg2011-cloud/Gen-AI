@@ -1,0 +1,14 @@
+# Videos
+*.mp4
+
+# Environment files
+.env
+
+# Google credentials
+application_default_credentials.json
+wpuser22-1357f7e639c5.json
+gen-lang-client-0384449393-2ea7b2fc5197.json
+
+# Python
+__pycache__/
+*.pyc*.mp4

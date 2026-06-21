@@ -1,0 +1,1000 @@
+================================================================================
+PINNACLE TRUST BANK PLC
+COMPREHENSIVE BANKING POLICIES & CUSTOMER SERVICE HANDBOOK
+Document Version 4.2  |  Effective Date: January 1, 2025
+Review Date: December 31, 2025
+
+Corporate Headquarters: 14 Commerce Square, Financial District, Metropolis, MP 10001
+Toll-Free: 1-800-PINNACLE  |  www.pinnacletrustbank.com
+================================================================================
+
+
+1. ABOUT PINNACLE TRUST BANK
+================================================================================
+
+Pinnacle Trust Bank PLC (PTB) is a full-service commercial bank incorporated under the laws of the Republic of Metropolis in 1987. With over three decades of distinguished service, PTB has grown from a single branch operation in the Financial District to a nationwide network of 142 branches, 48 regional offices, and 1,200+ ATMs spread across all major cities and towns.
+
+PTB is regulated by the Metropolis Financial Regulatory Authority (MFRA) and is a member of the National Deposit Insurance Corporation (NDIC), which guarantees customer deposits up to $250,000 per account holder. PTB is also a publicly listed company on the Metropolis Stock Exchange under the ticker symbol PTBK.
+
+
+1.1 Our Mission
+---------------
+To empower individuals, families, and businesses with accessible, transparent, and innovative financial solutions that foster long-term prosperity and trust.
+
+
+1.2 Core Values
+---------------
+Integrity: We operate with complete transparency and ethical conduct in every interaction.
+
+Customer Centricity: Every policy and product is designed with the customer's best interest at heart.
+
+Innovation: We continually invest in technology to deliver a seamless banking experience.
+
+Inclusion: We believe in providing equal access to financial services regardless of background.
+
+Responsibility: We are committed to sustainable banking practices and community development.
+
+
+1.3 Products and Services Overview
+------------------------------------
+PTB offers a comprehensive suite of financial products and services, including but not limited to:
+
+Personal Banking: Savings accounts, current accounts, fixed deposits, recurring deposits, salary accounts, student accounts, and senior citizen accounts.
+
+Loan Products: Home loans, personal loans, auto loans, education loans, gold loans, business loans, loans against property, and loans against fixed deposits.
+
+Cards: Debit cards, credit cards (Classic, Gold, Platinum, Infinite tiers), prepaid travel cards, and virtual cards for online transactions.
+
+Insurance: Life insurance, health insurance, and general insurance offered through PTB Insurance Partners in association with licensed insurers.
+
+Investments: Mutual funds, fixed income securities, equity-linked savings schemes (ELSS), National Pension Scheme (NPS), and sovereign gold bonds.
+
+Digital Banking: Mobile app, internet banking, UPI-linked services, digital wallets, and API-based banking for developers and businesses.
+
+NRI Services: Foreign currency non-resident (FCNR) accounts, non-resident external (NRE) and non-resident ordinary (NRO) accounts, remittance services, and investment advisory for non-residents.
+
+Business and Corporate Banking: Trade finance, working capital credit lines, project finance, cash management, treasury services, and syndication.
+
+
+2. ACCOUNT OPENING POLICIES
+================================================================================
+
+Pinnacle Trust Bank adheres to strict Know Your Customer (KYC) and Anti-Money Laundering (AML) policies as mandated by the MFRA. All prospective customers must complete the account opening process in compliance with these norms. PTB performs enhanced due diligence (EDD) for politically exposed persons (PEPs), high-net-worth individuals, and accounts with anticipated high transaction volumes.
+
+
+2.1 Eligibility Criteria — Individual Accounts
+------------------------------------------------
+The applicant must be 18 years of age or older. Minors aged 10 to 17 may open accounts under a natural guardian, with the guardian acting as the primary operator. Minors above 14 may independently operate accounts with limited transaction permissions as per MFRA guidelines.
+
+The applicant must be a citizen or legal resident of Metropolis. Non-residents may open NRE, NRO, or FCNR accounts by presenting a valid passport and visa documentation.
+
+The applicant must provide valid government-issued photo identification and a proof of residential address.
+
+The applicant must not be declared insolvent, have accounts frozen by a court order, or be blacklisted by any regulatory financial body or included in the MFRA's defaulter list.
+
+
+2.2 Eligibility Criteria — Business and Corporate Accounts
+-----------------------------------------------------------
+The entity must be legally registered under the applicable laws of Metropolis. Accepted entity types include Sole Proprietorships, Partnership Firms, Limited Liability Partnerships (LLPs), Private Limited Companies, and Public Limited Companies.
+
+Required organizational documents include the Certificate of Incorporation, Memorandum of Association (MoA), Articles of Association (AoA), and a Board Resolution authorizing the opening of the account and designating authorized signatories.
+
+All authorized signatories must individually complete the KYC process including identity verification, address proof, and tax identification.
+
+The entity must have a valid tax registration and, where applicable, a Goods and Services Tax (GST) registration certificate.
+
+
+2.3 Required Documents — Individual Applicants
+------------------------------------------------
+Government-issued Photo ID: Accepted documents include a valid National Identity Card, Passport, or Driver's License. The document must not be expired at the time of application.
+
+Address Proof: Accepted documents include recent utility bills (electricity, water, gas), bank account statements, or a registered lease or rental agreement. Documents must not be older than three months from the date of application.
+
+Tax Identification: Applicants must provide their Tax Identification Number (TIN) or equivalent government-issued tax reference. The number must be active and linked to the applicant's name.
+
+Recent Photographs: Two passport-size photographs taken within the past six months are required.
+
+Income Proof (mandatory for loan applications, optional for deposit accounts): Accepted documents include the last three months' salary slips, the most recent Income Tax Return (ITR) filed, and bank account statements for the last six months from all active accounts.
+
+
+2.4 Required Documents — Business Applicants
+----------------------------------------------
+Completed and signed Account Opening Form for Business Entities (Form PTB-BIZ-01).
+
+Certificate of Incorporation issued by the Registrar of Companies.
+
+Memorandum and Articles of Association (for companies) or Partnership Deed (for partnerships).
+
+Board Resolution or Authority Letter designating the authorized signatories for the account.
+
+Identity and address proof for all authorized signatories and beneficial owners holding 10% or more ownership stake.
+
+Valid GST Registration Certificate and the most recent GST returns (last 12 months), if the business is GST-registered.
+
+Latest audited financial statements (Profit and Loss Account and Balance Sheet) for the most recent two financial years.
+
+
+2.5 Minimum Balance Requirements
+----------------------------------
+Regular Savings Account: $500 in urban branches; $250 in semi-urban and rural branches.
+
+Premium Savings Account: $2,500 in urban branches; $1,500 in semi-urban and rural branches.
+
+Current Account (Basic): $5,000 in urban branches; $2,500 in semi-urban and rural branches.
+
+Current Account (Business Pro): $15,000 in urban branches; $10,000 in semi-urban and rural branches.
+
+Zero Balance Account (Jan Dhan Scheme): No minimum balance required. Available for economically weaker sections as per government directives.
+
+Non-maintenance of the minimum balance will attract a quarterly non-maintenance charge of $25 for savings accounts and $50 for current accounts. Customers will be notified via SMS and email at least 30 days before charges are applied. Charges will not be levied during the first quarter after account opening.
+
+
+3. LOAN PRODUCTS AND POLICIES
+================================================================================
+
+Pinnacle Trust Bank offers a wide range of credit products designed to meet the diverse financial needs of its customers. All loan applications are subject to a thorough credit appraisal, risk assessment, and approval by the Credit Risk Committee (CRC). PTB follows a transparent and fair lending policy in full accordance with the MFRA's Fair Lending Guidelines, and does not discriminate on the basis of gender, religion, ethnicity, or region.
+
+
+3.1 Personal Loans
+-------------------
+Overview: Personal loans at PTB are unsecured credit facilities available to salaried employees, self-employed professionals, and business owners. These loans may be used for any legitimate personal purpose including medical emergencies, travel, home renovation, wedding expenses, consumer electronics, or consolidation of existing high-interest debt.
+
+Eligibility:
+- Age: 21 to 60 years for salaried applicants; 25 to 65 years for self-employed applicants.
+- Minimum Monthly Income: $1,500 net take-home for salaried applicants; $2,000 net monthly profit for self-employed applicants.
+- Employment Status: Minimum 2 years of continuous employment with the current or combined employers; minimum 3 years of continuous business operations for self-employed.
+- Credit Score: Minimum score of 680 as reported by the Metropolis Credit Bureau (MCB).
+- Existing PTB Relationship: Preferred but not mandatory. Existing PTB customers with a satisfactory track record may receive preferential interest rates.
+
+Loan Parameters:
+- Loan Amount: $1,000 to $50,000.
+- Tenure: 12 to 60 months (1 to 5 years).
+- Interest Rate: 10.5% to 18.5% per annum on a reducing balance basis. Rate depends on credit score, income level, employer category, and existing PTB relationship.
+- Processing Fee: 1.5% of the sanctioned loan amount plus applicable taxes.
+- Prepayment Charges: Nil if the loan has completed 12 EMIs. A charge of 3% of the outstanding principal applies if prepaid within the first 12 months.
+- Part-Payment: Allowed after 6 EMIs, subject to a minimum part-payment of 3 times the current EMI amount.
+- Disbursement Time: Within 3 business days of all documentation being verified and loan being approved.
+- Collateral: None. Personal loans are fully unsecured.
+
+
+3.2 Home Loans
+---------------
+Overview: PTB Home Loans are designed to help customers purchase, construct, extend, or renovate their residential properties. With competitive interest rates, flexible tenures up to 30 years, and a team of dedicated Home Loan Relationship Managers, PTB aims to make the home-buying journey smooth, transparent, and affordable.
+
+Eligibility:
+- Age: 21 to 70 years. The loan must be fully repaid by the time the applicant reaches 70 years.
+- Minimum Net Monthly Income: $3,000 for individual applicants; $4,500 for joint applicants.
+- Property: The property must be legally clear, free of encumbrances, and approved by the relevant municipal or development authority.
+- Credit Score: Minimum 700 on the MCB scale.
+- Loan-to-Value (LTV): Up to 80% of property value for properties valued above $200,000. Up to 90% for properties valued below $200,000.
+- Co-Applicants: Allowed. Income of up to 2 co-applicants may be clubbed for eligibility computation. Co-applicants must be close family members (spouse, parents, or adult children).
+
+Loan Parameters:
+- Loan Amount: $25,000 to $5,000,000.
+- Tenure: 5 to 30 years.
+- Floating Interest Rate: 8.25% to 10.75% per annum, linked to PTB's Marginal Cost of Funds-based Lending Rate (MCLR). Rate reset occurs annually on the anniversary date of the loan.
+- Fixed Interest Rate: 9.00% to 11.50% per annum for a 2-year lock-in period, after which the rate converts to floating.
+- Processing Fee: 0.5% of the loan amount, subject to a maximum of $5,000, plus applicable taxes.
+- Prepayment (Floating Rate): No prepayment charges at any point during the loan tenure.
+- Prepayment (Fixed Rate): A charge of 2% of the outstanding principal applies if prepaid within the lock-in period.
+- Legal and Valuation Fee: $300 to $800 depending on property value and location.
+- Disbursement: Funds are disbursed directly to the seller or builder as per the registered sale or construction agreement. For under-construction properties, disbursement is stage-wise based on construction milestones.
+
+
+3.3 Auto Loans
+---------------
+Overview: PTB Auto Loans provide financing for the purchase of new and used vehicles including passenger cars, sport utility vehicles (SUVs), two-wheelers, three-wheelers, commercial vehicles (light and heavy), and electric vehicles (EVs). PTB has formal tie-ups with over 500 authorized dealerships nationwide for instant loan approvals at the point of sale.
+
+Loan Parameters — New Vehicles:
+- Loan-to-Value: Up to 90% of the on-road price.
+- Tenure: 1 to 7 years.
+- Interest Rate: 7.99% to 12.5% per annum.
+- Processing Fee: 1% of the loan amount plus applicable taxes.
+- Prepayment Charges: Nil after 6 months of loan disbursement.
+
+Loan Parameters — Used Vehicles (maximum 5 years old):
+- Loan-to-Value: Up to 75% of the assessed market value.
+- Tenure: 1 to 5 years.
+- Interest Rate: 10.5% to 15.5% per annum.
+- Processing Fee: 1.5% of the loan amount plus applicable taxes.
+- Prepayment Charges: 2% of outstanding principal if foreclosed within the first 12 months.
+
+Special Offer — Electric Vehicle Loans: PTB offers a 0.25% p.a. interest rate concession for all EV purchases as part of its Green Banking initiative. No processing fee is charged on EV loans sanctioned during designated promotional periods. Customers should check the PTB website or contact branches for current offer validity.
+
+
+3.4 Education Loans
+--------------------
+PTB Education Loans support students pursuing higher education both within Metropolis and abroad. Loans are offered for recognized undergraduate, postgraduate, diploma, and professional courses at accredited institutions listed in the MFRA's approved institution register.
+
+Key Terms:
+- Loan Amount: Up to $75,000 for domestic (within Metropolis) education. Up to $150,000 for international education at recognized foreign universities.
+- Expenses Covered: Tuition fees, hostel and accommodation charges, examination and library fees, purchase of books and equipment, travel expenses for international study, and purchase of a laptop or computer if required by the institution.
+- Repayment: A moratorium period is granted equivalent to the full course duration plus 6 months after course completion, before EMI repayments begin. Interest accrues during the moratorium and is added to the principal.
+- Interest Rate: 8.5% to 12.5% per annum depending on the institution's national ranking, course type, and collateral offered.
+- Collateral Requirements: No collateral for loans up to $20,000. For loans between $20,000 and $40,000, a third-party guarantee from a creditworthy individual is required. For loans above $40,000, tangible collateral such as residential property, fixed deposits, or government securities is required.
+- Interest Subsidy: Students from economically weaker sections (annual family income below $25,000) may be eligible for full interest subsidy during the moratorium period under the government's Central Education Loan Interest Subsidy Scheme. PTB assists students in applying for the subsidy.
+- Repayment Tenure: Up to 10 years for domestic loans; up to 15 years for international loans, commencing from the end of the moratorium period.
+
+
+3.5 Business Loans
+-------------------
+PTB Business Loans are tailored to the needs of micro, small, and medium enterprises (MSMEs), startups, and established companies seeking working capital, equipment financing, business expansion, or asset acquisition.
+
+Types of Business Loan Facilities:
+
+Term Loan: A one-time disbursement for the purchase of fixed assets, construction, business expansion, or acquisition. Repaid in structured EMIs over a fixed tenure.
+
+Working Capital Loan and Overdraft: A revolving credit facility for day-to-day operational expenses such as inventory purchase, payroll, and short-term liabilities. Interest is charged only on the amount utilized.
+
+Equipment Financing: A secured loan for the purchase of machinery, industrial equipment, medical devices, or vehicles for business use. The asset itself serves as the primary collateral.
+
+Invoice Discounting and Factoring: Enables businesses to unlock liquidity against verified and accepted customer invoices. PTB advances up to 80% of the invoice value and collects directly from the buyer on due date.
+
+Letter of Credit (LC) and Bank Guarantee (BG): Issued to facilitate domestic and international trade transactions. PTB's LCs are accepted by correspondent banks in over 60 countries.
+
+Loan Parameters:
+- Loan Amount: $10,000 to $10,000,000 depending on the type of facility, business turnover, and collateral.
+- Tenure: 12 months to 10 years for term loans; revolving for working capital facilities with annual renewal.
+- Interest Rate: 11% to 19% per annum based on the applicant's credit profile, business vintage, turnover, and collateral offered.
+- Collateral: Commercial property, residential property, machinery, fixed deposits, life insurance policies, or personal guarantees of promoters.
+- Processing Fee: 1% to 2% of the sanctioned amount plus applicable taxes.
+- Business Vintage Requirement: Minimum 2 years of business operations with supporting Income Tax Returns (ITRs).
+- MSME Benefits: Businesses registered under the MSME Act may be eligible for subsidized interest rates under government-backed schemes such as the MFRA MSME Credit Guarantee Scheme (MCGS), which covers up to 85% of the loan amount without additional collateral.
+
+
+4. HOW TO APPLY FOR A LOAN
+================================================================================
+
+Pinnacle Trust Bank offers multiple convenient channels for loan applications. The entire process is designed to be transparent, fast, and hassle-free. Customers are encouraged to read the eligibility criteria and gather required documents before initiating the application.
+
+
+4.1 Application Channels
+
+Online Application (Recommended):
+Step 1: Visit www.pinnacletrustbank.com and log in using your credentials or register as a new user.
+Step 2: Navigate to the "Loans and Credit" section and select the desired loan product (Personal Loan, Home Loan, Auto Loan, etc.).
+Step 3: Click "Apply Now" and complete the online application form with accurate personal, employment, and financial information.
+Step 4: Upload the required supporting documents in PDF or JPG format. Each file must not exceed 5 MB in size.
+Step 5: Review all entered details, accept the declaration, and submit the application.
+Step 6: Note your Application Reference Number (ARN) displayed on the confirmation screen. A confirmation email and SMS will also be sent to your registered contact details.
+Step 7: A dedicated Loan Relationship Manager (LRM) assigned to your application will contact you within 24 business hours to guide you through the next steps.
+
+Mobile App Application:
+Step 1: Download the PTB Mobile App, available on the Google Play Store (Android) and Apple App Store (iOS).
+Step 2: Log in using your existing PTB credentials or register using your mobile number and set up a secure PIN.
+Step 3: Tap "Apply for a Loan" under the Services or Products menu on the home screen.
+Step 4: Select your preferred loan type and complete the guided application form within the app.
+Step 5: Upload documents using your phone's camera or from your device gallery. The app supports direct camera capture for clear document images.
+Step 6: Submit the application and track its real-time status under "My Applications" in the app.
+
+Branch Application:
+Step 1: Visit any PTB branch during working hours (Monday to Saturday, 9:30 AM to 4:30 PM).
+Step 2: Collect the Loan Application Form (Form PTB-LAF-2025) from the Help Desk or Customer Service Counter.
+Step 3: Fill the form completely and accurately in block letters using a blue or black ink pen.
+Step 4: Attach self-attested photocopies of all required supporting documents to the completed form.
+Step 5: Submit the application package at the designated Loans Counter along with a cheque or demand draft for the processing fee, drawn in favor of "Pinnacle Trust Bank PLC."
+Step 6: Obtain the acknowledgement receipt from the branch officer. This receipt contains your ARN and the expected timeline for a response from the bank's credit team.
+
+Phone Application:
+Customers can initiate a loan inquiry or application by calling PTB's 24/7 Customer Service at 1-800-PINNACLE (1-800-746-6225). A customer service representative will conduct a preliminary eligibility check over the phone and guide you through the documentation requirements. Customers may also request a home visit by a PTB representative for assistance with form-filling and document submission. Home visits are available on request and are particularly accommodated for senior citizens, differently-abled individuals, and customers located in areas without a nearby PTB branch.
+
+
+4.2 Loan Processing Lifecycle
+
+Stage 1 — Application Submission: Customer submits a completed application form with all supporting documents through any of the available channels. The system auto-generates an Application Reference Number (ARN) and sends an acknowledgement to the customer.
+
+Stage 2 — Preliminary Screening: The bank's automated credit screening system checks for basic eligibility criteria including age, minimum income threshold, and existing PTB relationships. This stage is completed within 4 business hours of submission.
+
+Stage 3 — Document Verification: The bank's operations team verifies the authenticity and completeness of all submitted documents. Physical documents submitted at branches are scanned and digitized. This stage takes 1 to 2 business days.
+
+Stage 4 — Credit Bureau Check: PTB pulls the applicant's credit report from the Metropolis Credit Bureau (MCB) to assess credit history, existing loan obligations, and repayment behavior. This is an automated process completed the same day as document verification.
+
+Stage 5 — Internal Credit Appraisal: The Credit Risk Team evaluates the applicant's repayment capacity by analyzing income, existing liabilities, debt-to-income (DTI) ratio, and the purpose of the loan. This stage takes 2 to 3 business days.
+
+Stage 6 — Property or Asset Valuation (for secured loans): An empaneled valuation agency appointed by PTB physically inspects and independently values the asset proposed as collateral or the property being purchased. This stage takes 2 to 5 business days depending on the property location and accessibility.
+
+Stage 7 — Credit Committee Review: For loan applications above $100,000, the case is presented to the Credit Risk Committee (CRC) for formal approval. The CRC meets twice weekly. Decisions are communicated within 1 business day of the meeting.
+
+Stage 8 — Sanction Letter Issued: Upon approval, PTB issues a formal Loan Sanction Letter detailing the sanctioned amount, tenure, applicable interest rate, EMI schedule, processing fee, and all terms and conditions. The letter is sent to the customer's registered email address and a physical copy is dispatched by courier.
+
+Stage 9 — Customer Acceptance: The customer must review the Sanction Letter, sign the Loan Agreement, and return all executed documents to the bank within 15 calendar days of the sanction date. Failure to do so will result in the sanction lapsing and a fresh application being required.
+
+Stage 10 — Loan Disbursement: Upon receipt of all executed documents and collection of applicable fees, the loan amount is credited to the applicant's designated PTB savings or current account within 24 to 72 business hours. For home loans, the amount is transferred directly to the seller or builder's account as specified in the sale agreement.
+
+
+4.3 Documents Required for Loan Applications
+
+For Salaried Individuals:
+- Completed and duly signed Loan Application Form (PTB-LAF-2025).
+- 2 recent passport-size photographs taken within the last 6 months.
+- Identity Proof: Passport, National ID Card, or Driver's License (valid, not expired).
+- Address Proof: Utility bill, bank statement, or lease agreement not older than 3 months.
+- Income Proof: Last 3 months' salary slips and Form 16 or Tax Return for the last 2 financial years.
+- Bank Statements: Last 6 months from all active bank accounts (all banks, not just PTB).
+- Employment Certificate or Offer Letter on company letterhead confirming employment status and designation.
+- For Home Loans (additional): Registered Sale Agreement, Title Deed, Approved Building Plan, No Objection Certificate (NOC) from the builder, and Encumbrance Certificate.
+- For Auto Loans (additional): Proforma Invoice from the authorized dealer.
+
+For Self-Employed Individuals and Business Owners:
+- Completed and duly signed Loan Application Form (PTB-LAF-2025).
+- Identity and Address Proof as above.
+- Business Registration Certificate or Trade License.
+- Income Tax Returns for the last 3 financial years, both for the individual and the business entity.
+- Audited Profit and Loss Account and Balance Sheet for the last 2 financial years, certified by a chartered accountant.
+- Bank statements for the last 12 months from all business and personal accounts.
+- GST Registration Certificate and last 12 months' GST Returns (if the business is registered under GST).
+- Business entity documents: Partnership Deed, Memorandum and Articles of Association, or Board Resolution as applicable.
+
+
+4.4 Processing Fees and Charges
+
+Processing Fee: 0.5% to 2% of the sanctioned loan amount, depending on loan type. Charged at the time of application submission or deducted from the disbursed amount. Non-refundable once document verification has commenced. Refundable in full if PTB declines the application.
+
+Documentation Charges: $50 to $200 depending on the loan amount and complexity, payable at the time of sanction.
+
+Legal and Valuation Fee: $200 to $1,000 for secured loans, payable before the valuation process begins. This covers the cost of the independent legal opinion and property valuation report.
+
+Stamp Duty: As per the applicable state or federal regulations at the time of loan agreement execution. Borne by the borrower.
+
+Credit Bureau Report Fee: $15 per application. Typically included within the processing fee for most loan types.
+
+Late Payment Penalty: 2% per month on the overdue EMI amount, applied if the EMI remains unpaid beyond 7 calendar days from the due date.
+
+Cheque Bounce or ECS Return Charge: $30 per instance, applicable when an EMI cheque is returned unpaid or an ECS/NACH mandate is rejected by the bank for any reason.
+
+Loan Cancellation Post Sanction: 1% of the sanctioned amount with a minimum charge of $100, applicable if the borrower cancels the loan within 30 calendar days of the sanction date.
+
+Duplicate Sanction Letter or NOC: $25 per document request.
+
+Account Statement for Loan Account: Free for the first 2 requests per year; $10 per request thereafter.
+
+
+4.5 Loan Repayment
+
+All loan repayments are made through Equated Monthly Installments (EMIs). EMIs are automatically debited from the borrower's designated PTB account via a NACH (National Automated Clearing House) mandate on the agreed due date each month. The EMI due date is fixed at the time of sanction and cannot be changed more than once during the loan tenure.
+
+Repayment Options:
+- Auto-debit from PTB account via NACH mandate (recommended).
+- NEFT or RTGS transfer from any bank to the PTB loan account number.
+- Online payment via PTB Internet Banking or Mobile App under the "Loan Repayment" section.
+- Cash payment at any PTB branch, subject to a maximum of $5,000 per transaction.
+- PTB Cash Deposit Machines (CDMs) available at select branches, operational 24/7.
+
+Prepayment and Foreclosure:
+Customers can prepay their loan partially or fully after the minimum lock-in period applicable to their loan type (as specified in the respective loan sections above). Part-prepayment reduces either the EMI amount or the remaining tenure at the customer's discretion, stated at the time of making the part-payment.
+
+Foreclosure (full prepayment) requests must be submitted in writing to the home branch, or through the PTB Internet Banking portal, or by calling the Loan Service Helpline at 1-800-PTB-LOAN, at least 7 working days before the intended closure date. The foreclosure statement provided by PTB will include the outstanding principal, accrued interest up to the proposed closure date, and applicable foreclosure charges.
+
+Upon settlement, PTB will return all original property documents (for secured loans) within 15 working days and issue a No Objection Certificate (NOC) and a Loan Closure Letter. The lien on the property will be removed from the registrar's records. PTB assists customers with the lien removal process at an administrative charge of $50.
+
+
+4.6 Loan Decline and Re-application Policy
+
+If a loan application is declined, PTB will communicate the reason in writing to the applicant's registered email and postal address within 5 business days of the decision. Verbal communication is not considered valid and applicants should insist on a written decline letter.
+
+Common reasons for loan decline include: credit score below the minimum threshold, insufficient or irregular income, high existing debt-to-income ratio, incomplete or inconsistent documentation, adverse credit history (defaults, write-offs, or settled accounts), property-related issues for secured loans, or inability to verify submitted information.
+
+Applicants may re-apply after addressing the specific reasons cited in the decline communication. A fresh credit bureau inquiry will be initiated for every new application, which may temporarily affect the applicant's credit score. Applicants are advised to wait a minimum of 90 days before re-applying to avoid multiple hard inquiries within a short period. PTB's Loan Advisory desk can provide guidance on improving eligibility before re-application, at no charge.
+
+
+5. INTEREST RATES ON DEPOSITS
+================================================================================
+
+The following interest rates are effective from January 1, 2025. Rates are subject to periodic revision by PTB's Asset Liability Management Committee (ALCO) in response to market conditions and regulatory guidelines. Any revision will be communicated on the PTB website and displayed at all branch notice boards with at least 7 days' advance notice. Rates locked in at the time of deposit booking will not change during the booked tenure.
+
+
+5.1 Savings Account Interest Rates
+
+For daily average balances up to $50,000: 3.50% per annum.
+For daily average balances from $50,001 to $500,000: 4.00% per annum.
+For daily average balances above $500,000: 4.50% per annum.
+
+Interest on savings accounts is calculated on the daily closing balance and credited to the account at the end of each calendar quarter.
+
+
+5.2 Fixed Deposit Interest Rates
+
+Tenure 7 to 30 days: 4.00% (General), 4.50% (Senior Citizens), NRE/NRO not applicable.
+Tenure 31 to 90 days: 5.00% (General), 5.50% (Senior Citizens), NRE/NRO not applicable.
+Tenure 91 to 180 days: 5.75% (General), 6.25% (Senior Citizens), 5.75% (NRE/NRO).
+Tenure 181 to 364 days: 6.25% (General), 6.75% (Senior Citizens), 6.25% (NRE/NRO).
+Tenure 1 year to 2 years: 7.00% (General), 7.50% (Senior Citizens), 7.00% (NRE/NRO).
+Tenure 2 years to 3 years: 7.25% (General), 7.75% (Senior Citizens), 7.25% (NRE/NRO).
+Tenure 3 years to 5 years: 7.00% (General), 7.50% (Senior Citizens), 7.00% (NRE/NRO).
+Tenure above 5 years: 6.75% (General), 7.25% (Senior Citizens), 6.75% (NRE/NRO).
+
+Senior citizens (60 years and above) receive an additional 0.50% per annum on all tenures. PTB Super Senior Citizens (80 years and above) receive an additional 0.75% per annum.
+
+Interest on domestic fixed deposits is compounded quarterly. Interest on NRE fixed deposits is compounded annually and is repatriable along with principal.
+
+Premature withdrawal of fixed deposits is permitted subject to a 1% penalty on the applicable rate for the period the deposit has been held. No interest is paid on deposits withdrawn within 7 days of booking.
+
+
+5.3 Recurring Deposit Interest Rates
+
+Recurring deposits earn interest at the same rate as the corresponding tenure fixed deposit rate applicable at the time of opening the RD account. Interest is compounded quarterly. The minimum monthly installment for a recurring deposit is $50. Tenures range from 6 months to 10 years.
+
+A late payment charge of $1 per $100 of installment per month of delay applies to missed RD installments. Customers are encouraged to activate auto-debit mandates to avoid missed payments.
+
+
+6. DIGITAL BANKING POLICIES
+================================================================================
+
+PTB's digital banking ecosystem includes the PTB Mobile App, PTB Internet Banking Portal (NetBanking), UPI-linked services, and an API Banking Gateway for business customers. These platforms are available 24 hours a day, 7 days a week, and are protected by multi-factor authentication, device binding, and 256-bit SSL encryption in transit and at rest.
+
+
+6.1 PTB Mobile App Features
+
+Account Management: View real-time account balance and transaction history, download account statements (PDF/CSV), manage multiple accounts under a single login, and set spending limits on debit cards.
+
+Fund Transfers: Instant Money Transfer (IMPS) available 24/7, NEFT and RTGS transfers with online confirmation, UPI-linked transfers using UPI ID or QR code, and international remittances to 60+ countries through partner banks.
+
+Bill Payments and Recharges: Electricity, water, gas, internet, cable TV, insurance premium payments, and mobile prepaid recharges for all operators.
+
+Deposits: Open fixed deposits and recurring deposits, renew or close existing deposits, and view maturity schedules and accrued interest.
+
+Loans: Apply for personal loans, auto loans, and top-up loans. View EMI schedules, outstanding balances, and payment history. Make pre-payments toward active loans.
+
+Credit Cards: View monthly statements, pay credit card bills, request limit enhancement, block lost or stolen cards, and redeem reward points.
+
+Investments: Set up and manage mutual fund SIPs, view portfolio performance, book sovereign gold bonds, and access NPS contribution.
+
+Support: Raise service requests, lodge complaints, chat with PTB SmartAssist (AI-powered chatbot available 24/7), request cheque books, and submit stop payment instructions.
+
+
+6.2 Transaction Limits (Mobile App and Internet Banking)
+
+IMPS (Immediate Payment Service): Maximum $200,000 per transaction; $500,000 daily limit.
+NEFT (National Electronic Funds Transfer): Maximum $1,000,000 per transaction; $2,000,000 daily limit.
+RTGS (Real Time Gross Settlement): Minimum $200,000 per transaction; $5,000,000 daily limit. Applicable for high-value same-day transfers.
+UPI (Unified Payments Interface): Maximum $10,000 per transaction; $100,000 daily limit.
+ATM Cash Withdrawal: Maximum $1,000 per transaction; $5,000 daily limit.
+Debit Card POS (Point of Sale): Maximum $10,000 per transaction; $50,000 daily limit.
+International Card Usage: Disabled by default. Can be enabled temporarily through the mobile app for specific travel periods.
+
+Note: Customers may request enhanced limits for specific transactions by contacting PTB Customer Service. Enhanced limits require additional verification and may take 1 to 2 business days to activate.
+
+
+6.3 Digital Security Policy
+
+PTB will NEVER contact customers to ask for their ATM PIN, Internet Banking password, OTP (One-Time Password), CVV, or full card number through phone calls, emails, SMS messages, or any social media channel. Any request for such information must be treated as a fraudulent attempt and reported immediately.
+
+Customer Responsibilities:
+- Never share OTPs, PINs, passwords, or card details with any person including PTB employees, family members, or third-party service providers.
+- Enable transaction alerts via SMS and email for all debit and credit activities on accounts and cards.
+- Activate biometric authentication (fingerprint or face recognition) on the PTB Mobile App for enhanced security.
+- Regularly monitor account statements for unauthorized or suspicious transactions.
+- Set a strong Internet Banking password using a combination of uppercase letters, lowercase letters, numbers, and special characters. Change the password every 90 days.
+- Do not use public Wi-Fi networks to access PTB's internet banking or mobile app.
+- Log out of all banking sessions before closing the browser or app.
+
+In the event of suspected fraud, unauthorized account access, or loss of a banking card, customers should immediately: call PTB's 24/7 Fraud Hotline at 1-800-PTB-SAFE (1-800-782-7233), block the card via the PTB Mobile App under "Card Services," or report through the Internet Banking portal under "Security Alert."
+
+PTB guarantees a zero-liability policy for unauthorized transactions provided the customer reports the incident within 48 hours of occurrence and has not been negligent in safeguarding their credentials.
+
+
+7. GRIEVANCE REDRESSAL POLICY
+================================================================================
+
+PTB is committed to resolving customer grievances in a prompt, fair, and courteous manner. The bank has established a three-tier grievance redressal mechanism to ensure that no complaint goes unaddressed. All complaints are logged in PTB's Customer Relationship Management (CRM) system and assigned a unique complaint reference number within 24 hours of receipt.
+
+
+7.1 Level 1 — Branch and Channel Resolution
+
+Customers should first raise their complaint through any of the following channels:
+
+In Person: Visit the Help Desk at any PTB branch and speak with a Customer Relationship Officer. A complaint acknowledgement slip will be provided on the spot.
+
+Phone: Call 1-800-PINNACLE (1-800-746-6225), available 24 hours a day, 7 days a week. The representative will log the complaint and provide a reference number.
+
+Email: Send a detailed email to support@pinnacletrustbank.com with the subject line "Complaint — [Account Number or ARN]." A reply confirming receipt will be sent within 4 business hours.
+
+Mobile App: Use the "Raise a Complaint" option under the Support section of the PTB Mobile App. Customers can track the status of their complaint in real time under "My Complaints."
+
+Website: Submit complaints through the online complaint form at www.pinnacletrustbank.com/support. The form is available in English and 6 regional languages.
+
+PTB targets resolution of all Level 1 complaints within 7 business days. If additional time is required, the customer will be proactively notified with an updated expected resolution date.
+
+
+7.2 Level 2 — Nodal Officer Escalation
+
+If the complaint is not resolved within 7 business days, or if the customer is dissatisfied with the resolution provided at Level 1, they may escalate the matter to PTB's Nodal Officer.
+
+Nodal Officer: Ms. Sophia Ramirez
+Title: Nodal Officer and Head of Customer Affairs
+Email: nodalofficer@pinnacletrustbank.com
+Phone: +1-212-400-9100 (Monday to Friday, 9:00 AM to 5:00 PM)
+Postal Address: Nodal Officer, Pinnacle Trust Bank PLC, 14 Commerce Square, Financial District, Metropolis, MP 10001
+
+When escalating, customers must provide their original complaint reference number, a description of the issue, and a copy of any prior communication received from PTB. The Nodal Officer aims to resolve all escalated complaints within 14 business days of receiving the escalation.
+
+
+7.3 Level 3 — MFRA Banking Ombudsman
+
+If the customer remains dissatisfied after Level 2 resolution, or if 30 calendar days have elapsed since the original complaint was filed without a satisfactory resolution, the customer may approach the MFRA Banking Ombudsman. This service is free of charge for all customers.
+
+The Ombudsman has jurisdiction over complaints related to deficiency in banking services, non-adherence to MFRA directives, unauthorized debits, non-disbursement of sanctioned loans, failure to return property documents post loan closure, and excessive charges.
+
+MFRA Ombudsman Portal: www.mfra-ombudsman.gov.mp
+Toll-Free Helpline: 1-900-22-MFRA (1-900-226-6372), available Monday to Friday, 9:00 AM to 5:00 PM.
+Physical Complaints: May be submitted to the nearest MFRA Regional Office. A list of MFRA offices is available on the Ombudsman's website.
+
+
+8. CUSTOMER CONTACT DETAILS
+================================================================================
+
+Pinnacle Trust Bank maintains an extensive customer support network to ensure that help is available whenever needed. The following is a comprehensive directory of all contact points, helplines, regional offices, and key personnel.
+
+
+8.1 National Customer Care — 24/7 Helplines
+
+General Inquiries and Support: 1-800-PINNACLE (1-800-746-6225) — Toll-Free, available 24 hours a day, 7 days a week. For account inquiries, transaction support, general product information, and service requests.
+
+Fraud and Card Blocking: 1-800-PTB-SAFE (1-800-782-7233) — Toll-Free, available 24/7. For reporting unauthorized transactions, blocking lost or stolen cards, and raising fraud alerts.
+
+Loan Customer Service: 1-800-PTB-LOAN (1-800-782-5626) — Toll-Free, available Monday to Saturday, 8:00 AM to 8:00 PM. For loan application status, EMI queries, part-payment requests, and loan account management.
+
+NRI Services: +1-212-400-8800 (International direct dial) — Available Monday to Friday, 9:00 AM to 6:00 PM IST. For NRE/NRO/FCNR accounts, remittances, and NRI-specific product inquiries.
+
+Corporate and Business Banking: 1-800-PTB-CORP (1-800-782-2677) — Toll-Free, available Monday to Friday, 9:00 AM to 6:00 PM. For trade finance, working capital, corporate accounts, and business banking solutions.
+
+Wealth Management: 1-800-PTB-INVST (1-800-782-4678) — Toll-Free, available Monday to Friday, 9:00 AM to 5:00 PM. For investment advisory, portfolio management, mutual fund queries, and insurance.
+
+Technical Support (Digital Banking): 1-800-PTB-TECH (1-800-782-8324) — Toll-Free, available 24/7. For internet banking login issues, mobile app troubleshooting, failed transactions, and password reset assistance.
+
+Senior Citizen Helpdesk: 1-800-PTB-CARE (1-800-782-2273) — Toll-Free, available Monday to Saturday, 9:00 AM to 6:00 PM. Dedicated support line with specially trained agents for elderly customers.
+
+
+8.2 Email Contact Directory
+
+General Customer Support: support@pinnacletrustbank.com
+Loan Applications and Queries: loans@pinnacletrustbank.com
+Home Loan Specialists: homeloans@pinnacletrustbank.com
+Auto Loan Desk: autoloans@pinnacletrustbank.com
+Education Loan Desk: eduloans@pinnacletrustbank.com
+Business and MSME Loans: businessloans@pinnacletrustbank.com
+Complaints and Grievances: grievance@pinnacletrustbank.com
+Nodal Officer: nodalofficer@pinnacletrustbank.com
+Fraud Reporting: fraudreport@pinnacletrustbank.com
+Corporate Banking: corporate@pinnacletrustbank.com
+NRI Services: nri@pinnacletrustbank.com
+Wealth and Investment: wealth@pinnacletrustbank.com
+Credit Card Support: creditcards@pinnacletrustbank.com
+Media and PR Inquiries: media@pinnacletrustbank.com
+Investor Relations: investors@pinnacletrustbank.com
+Careers and HR: careers@pinnacletrustbank.com
+Compliance and Regulatory: compliance@pinnacletrustbank.com
+Data Privacy (MDPA Requests): dataprivacy@pinnacletrustbank.com
+
+
+8.3 Regional Office Directory
+
+Metropolis Headquarters (HQ):
+Address: 14 Commerce Square, Financial District, Metropolis, MP 10001
+Phone: +1-212-400-9000
+Office Hours: Monday to Friday, 9:00 AM to 6:00 PM
+Services: Full-service regional hub. Handles escalated complaints, corporate banking, and specialized loan requests.
+
+Northgate Zone Office:
+Address: 88 Northgate Business Park, Tower C, Level 4, Northgate City, NG 20002
+Phone: +1-212-400-9200
+Office Hours: Monday to Friday, 9:00 AM to 6:00 PM
+Covers: Northern metro region and surrounding 18 districts.
+
+Westfield Zone Office:
+Address: Unit 5, Westfield Corporate Hub, Ring Road, Westfield, WF 30003
+Phone: +1-212-400-9300
+Office Hours: Monday to Friday, 9:00 AM to 6:00 PM
+Covers: Western corridor including Westfield, Vantara, and Greystone districts.
+
+Eastport Zone Office:
+Address: 12 Harbor View Road, Eastport Business Center, Level 2, EP 40004
+Phone: +1-212-400-9400
+Office Hours: Monday to Friday, 9:00 AM to 6:00 PM
+Covers: Coastal eastern zones including Eastport, Tidecrest, and Marineburgh.
+
+Southdown Zone Office:
+Address: 3rd Floor, Southdown Plaza, Central Avenue, Southdown, SD 50005
+Phone: +1-212-400-9500
+Office Hours: Monday to Friday, 9:00 AM to 6:00 PM
+Covers: Southern districts including Southdown, Crestwood, and Vellore Plains.
+
+Highland Zone Office:
+Address: 22 Summit Road, Highland Business Center, Unit 8, HL 60006
+Phone: +1-212-400-9600
+Office Hours: Monday to Friday, 9:00 AM to 6:00 PM
+Covers: Hill districts and highland territories including Pinnock, Clearview, and Stonebridge.
+
+Lakeview Zone Office:
+Address: Block B, Ground Floor, Lakeview Technology Park, LV 70007
+Phone: +1-212-400-9700
+Office Hours: Monday to Friday, 9:00 AM to 6:00 PM
+Covers: Central lakeshore region including Lakeview, Marshfield, and Alderwood.
+
+Riverdale Zone Office:
+Address: 9 Riverside Avenue, Commerce Block, Suite 12, Riverdale, RD 80008
+Phone: +1-212-400-9800
+Office Hours: Monday to Friday, 9:00 AM to 6:00 PM
+Covers: River basin districts including Riverdale, Fernbrook, and Clearwater Junction.
+
+
+8.4 Key Personnel Contact Directory
+
+Mr. Jonathan Hargrove — Chief Executive Officer
+Phone: +1-212-400-9001
+Email: ceo@pinnacletrustbank.com
+Office: Corporate Headquarters, 14th Floor, Metropolis HQ
+
+Ms. Priya Nair — Chief Financial Officer
+Phone: +1-212-400-9002
+Email: cfo@pinnacletrustbank.com
+Office: Corporate Headquarters, 13th Floor, Metropolis HQ
+
+Mr. David Okafor — Chief Risk Officer
+Phone: +1-212-400-9003
+Email: cro@pinnacletrustbank.com
+Office: Corporate Headquarters, 12th Floor, Metropolis HQ
+
+Ms. Ling Zhang — Head of Retail Banking
+Phone: +1-212-400-9010
+Email: retailhead@pinnacletrustbank.com
+Office: Corporate Headquarters, 11th Floor, Metropolis HQ
+
+Mr. Samuel Torres — Head of Digital Banking and Technology Products
+Phone: +1-212-400-9020
+Email: digital@pinnacletrustbank.com
+Office: Corporate Headquarters, 10th Floor, Metropolis HQ
+
+Ms. Sophia Ramirez — Nodal Officer and Head of Customer Affairs
+Phone: +1-212-400-9100
+Email: nodalofficer@pinnacletrustbank.com
+Office: Customer Affairs Wing, Ground Floor, Metropolis HQ
+
+Mr. Arun Mehta — Head of Credit and Loan Products
+Phone: +1-212-400-9030
+Email: credithead@pinnacletrustbank.com
+Office: Corporate Headquarters, 9th Floor, Metropolis HQ
+
+Ms. Fatima Al-Hassan — Head of Compliance and AML
+Phone: +1-212-400-9040
+Email: compliance@pinnacletrustbank.com
+Office: Compliance Wing, 8th Floor, Metropolis HQ
+
+Mr. Chris Nguyen — Chief Technology Officer
+Phone: +1-212-400-9050
+Email: cto@pinnacletrustbank.com
+Office: Technology Center, Lakeview Zone
+
+Mr. Benjamin Otieno — Head of Corporate and Institutional Banking
+Phone: +1-212-400-9060
+Email: corpbanking@pinnacletrustbank.com
+Office: Corporate Headquarters, 7th Floor, Metropolis HQ
+
+Ms. Ananya Krishnan — Head of NRI and International Banking
+Phone: +1-212-400-9070
+Email: nrihead@pinnacletrustbank.com
+Office: Corporate Headquarters, 6th Floor, Metropolis HQ
+
+Mr. Marcus Webb — Head of Wealth Management
+Phone: +1-212-400-9080
+Email: wealthhead@pinnacletrustbank.com
+Office: Premium Banking Center, Northgate Zone
+
+
+8.5 Branch and ATM Locator
+
+With 142 branches and 1,200+ ATMs nationwide, a Pinnacle Trust Bank outlet is always close to you. The following methods are available to find the nearest branch or ATM:
+
+Website Branch Locator: Visit www.pinnacletrustbank.com/branches and enter your city, postal code, or area name to view a map of nearby branches and ATMs along with their working hours and available services.
+
+Mobile App: Use the "Branch and ATM Locator" feature in the PTB Mobile App. The app uses your device's GPS to automatically list the 5 nearest branches and ATMs with estimated travel time.
+
+Google Maps: Search "Pinnacle Trust Bank" on Google Maps to locate branches with real-time information on working hours, customer ratings, and directions.
+
+SMS Service: Send an SMS with the message "BRANCH [your city name]" to 567890 to receive the addresses of the 3 nearest PTB branches to your location.
+
+Telephone: Call 1-800-PINNACLE and speak to a representative who can locate the nearest branch based on your current location or postal code.
+
+Select branches also offer extended banking hours, drive-through ATMs, video KYC terminals, and dedicated loan processing centers. These features are indicated on the website branch locator under each branch's profile.
+
+
+8.6 Social Media and Online Presence
+
+Official Website: www.pinnacletrustbank.com
+Facebook: facebook.com/PinnacletrustBank (for news, product updates, and customer education)
+Twitter / X: @PinnacleBank (for real-time service updates and alerts)
+LinkedIn: linkedin.com/company/pinnacletrustbank (for corporate news and career opportunities)
+Instagram: @pinnacletrustbank (for lifestyle content and financial tips)
+YouTube: youtube.com/PinnacletrustBank (for tutorials, product explainers, and financial literacy videos)
+
+Customers are advised not to share account numbers, OTPs, or personal financial details through social media channels. PTB's official social media accounts will never ask for such information. For account-specific queries, always use the official helpline or email channels listed above.
+
+
+9. GENERAL BANKING POLICIES
+================================================================================
+
+9.1 Account Dormancy and Inoperative Accounts
+
+An account is classified as "Inoperative" when there are no customer-initiated transactions for 12 consecutive months. It is further classified as "Dormant" after 24 consecutive months of no customer-initiated transactions. Automatic transactions such as interest credits and bank-imposed charges do not count as customer-initiated transactions for this classification.
+
+No charges are levied on dormant accounts. Interest continues to accrue on savings accounts even during the dormancy period.
+
+Customers can reactivate an inoperative or dormant account by visiting the home branch with a valid government-issued photo ID, a recent address proof, and a written account reactivation request. Online reactivation may also be attempted through PTB Internet Banking by completing a fresh OTP verification; if successful, the account will be reactivated instantly.
+
+As per MFRA regulations, deposits and interest in accounts that remain unclaimed for more than 10 years are transferred to the Depositor Education and Awareness Fund (DEAF) maintained by the MFRA. Customers can claim these funds from the MFRA directly even after transfer.
+
+
+9.2 Nomination Facility
+
+PTB strongly encourages all account holders to register a nominee for their accounts, fixed deposits, recurring deposits, and safe deposit lockers. Nomination ensures that funds are transferred to the designated person smoothly in the unfortunate event of the account holder's death, without the need for lengthy legal proceedings.
+
+Nominations can be submitted at the time of account opening or at any time thereafter through the PTB Mobile App, Internet Banking, or by submitting a signed Nomination Form (Form DA-1) at the home branch.
+
+Customers may change or cancel a nomination at any time. Up to one nominee is permitted per individual account. For joint accounts, nomination is applicable only in the event of the death of all joint account holders.
+
+In the event of the account holder's demise, the nominee must visit the home branch with a certified death certificate of the account holder, the nominee's original government-issued photo ID, proof of the nominee's relationship to the deceased (if applicable), and the completed Claim Form PTB-CLM-01.
+
+PTB will process valid nominee claims within 15 business days of receiving all required documents.
+
+
+9.3 Privacy and Data Protection
+
+PTB is committed to protecting the personal and financial data of its customers in full compliance with the Metropolis Data Privacy Act (MDPA) 2021. PTB collects only the data necessary for the provision of banking services and regulatory compliance.
+
+Customer data will not be shared with any third party except under the following circumstances: as required by law or a court order; to regulatory bodies such as the MFRA, tax authorities, or law enforcement agencies; to credit bureaus for credit reporting purposes; to fraud prevention agencies for the investigation of potential fraud; or with the customer's explicit written consent.
+
+Customers have the right to access all personal data PTB holds about them. A Data Access Request (DAR) can be submitted using Form DAR-2025, available on the PTB website or at any branch. PTB will respond to DAR requests within 30 calendar days.
+
+Customers also have the right to correct inaccurate data, request deletion of data no longer required, and opt out of marketing communications at any time by calling Customer Service or updating preferences through Internet Banking.
+
+PTB's full Privacy Policy, Cookie Policy, and Data Retention Policy are available at www.pinnacletrustbank.com/privacy.
+
+
+9.4 Foreign Exchange and International Remittance
+
+PTB is an authorized dealer in foreign exchange under MFRA Category I license. Customers can purchase foreign currency notes, prepaid travel cards loaded in up to 14 currencies, and send or receive international remittances through all designated Forex branches.
+
+PTB partners with SWIFT, Western Union, MoneyGram, and a network of correspondent banks in over 60 countries to facilitate global money transfers. Inward remittances (money received from abroad) are credited to the customer's account within 1 to 3 business days after receipt by PTB.
+
+Exchange rates are updated at the start of each business day and displayed on the PTB website under "Forex Rates" and at Forex counters at all designated branches.
+
+For outward remittances above $5,000 in a single financial year, customers must provide a valid PAN or Tax ID, complete a Foreign Exchange Management Act (FEMA) declaration form stating the purpose of remittance, and submit supporting documents relevant to the stated purpose (such as an invoice for trade payments or admission letter for education-related remittances).
+
+A transaction fee of $10 to $40 applies to international wire transfers depending on the destination country and currency. This fee is in addition to the exchange rate margin applied by PTB.
+
+
+9.5 Safe Deposit Lockers
+
+PTB offers safe deposit lockers in four sizes (Small, Medium, Large, and Extra-Large) at select branches. Lockers are available on a first-come, first-served basis based on availability at each branch.
+
+Annual locker rental fees:
+Small locker: $75 per annum.
+Medium locker: $150 per annum.
+Large locker: $250 per annum.
+Extra-Large locker: $400 per annum.
+
+A security deposit in the form of a lien-marked Fixed Deposit equivalent to 3 years' locker rent is required at the time of allotment. This FD continues to earn interest and is returned (along with accrued interest) upon surrendering the locker with advance notice of 30 days.
+
+Lockers can only be operated during branch working hours. Each locker can be registered in the names of up to 2 joint holders. Nomination is mandatory for all new locker allotments effective January 1, 2024.
+
+PTB is not liable for the contents of lockers. Customers are advised to insure the contents separately. In the event of force majeure circumstances (natural disaster, fire, or civil unrest), PTB's liability is limited to the locker rental amount paid.
+
+
+9.6 Corporate Social Responsibility
+
+PTB allocates 2% of its net annual profits to Corporate Social Responsibility (CSR) initiatives under the PTB Foundation. Current focus areas include financial literacy programs in rural and semi-urban areas, STEM scholarships for underprivileged students, microfinance for women entrepreneurs, and environmental sustainability projects including mangrove conservation and solar energy adoption in rural communities.
+
+Customers wishing to contribute to PTB Foundation programs or learn about volunteering opportunities may visit www.ptbfoundation.org or email csr@pinnacletrustbank.com.
+
+
+9.7 Policy Updates and Communication
+
+All policies contained in this document are subject to revision by PTB's Board of Directors and relevant governance committees. Policies may be updated in response to regulatory changes issued by the MFRA, market conditions, internal risk assessments, or customer feedback.
+
+Customers will be notified of material changes to policies that affect their accounts or products via registered email, SMS to the registered mobile number, and a prominent notice on the PTB website, at least 30 calendar days before the changes take effect.
+
+For changes mandated by regulatory authorities on an emergency basis, PTB will implement the changes as directed and notify customers as soon as practicable thereafter.
+
+The most current version of this Comprehensive Banking Policies and Customer Service Handbook is always available at www.pinnacletrustbank.com/policies. Customers may also request a printed copy at any PTB branch free of charge.
+
+
+================================================================================
+FREQUENTLY ASKED QUESTIONS (FAQ)
+For use in RAG-based Bank Customer Support Applications
+================================================================================
+
+The following questions represent typical customer inquiries submitted to bank chatbots and virtual assistants. They are organized by topic area to support retrieval-augmented generation (RAG) system training and evaluation.
+
+
+SECTION A: LOAN ELIGIBILITY AND APPLICATION
+--------------------------------------------
+
+Q1. What is the minimum credit score required to apply for a personal loan at PTB?
+A: The minimum credit score required is 680 as reported by the Metropolis Credit Bureau (MCB). Applicants with scores below this threshold will generally not qualify for a standard personal loan. Scores between 680 and 720 may qualify at the higher end of the interest rate range.
+
+Q2. Can I apply for a home loan if I am self-employed?
+A: Yes. Self-employed individuals and business owners are eligible for home loans at PTB. You must be between 25 and 65 years of age, have a minimum 3 years of continuous business operations, and provide audited financial statements and ITRs for the last 3 years. The credit appraisal will be based on declared income and net profitability.
+
+Q3. How long does the loan approval process take from application to disbursement?
+A: The complete loan processing lifecycle typically takes 7 to 15 business days depending on the loan type, completeness of documents, and whether a property valuation is required. Personal loans for existing PTB customers with a good credit profile can be processed in as little as 3 business days. Home loans typically take 12 to 20 business days due to the additional property verification and valuation steps.
+
+Q4. What documents do I need to apply for a personal loan as a salaried employee?
+A: You will need a completed Loan Application Form, identity proof, address proof, the last 3 months' salary slips, Form 16 or Income Tax Return for the last 2 years, and bank statements for the last 6 months from all active accounts.
+
+Q5. Can I apply for a loan completely online without visiting a branch?
+A: Yes. You can complete the entire loan application online through the PTB website or mobile app, including form submission and document upload. A Loan Relationship Manager will contact you for verification. Physical branch visits are only required in specific cases such as execution of high-value loan agreements or if additional document originals need to be verified.
+
+Q6. My loan application was rejected. What are the most common reasons, and when can I reapply?
+A: Common reasons for rejection include a credit score below the minimum threshold, insufficient income, high debt-to-income ratio, incomplete documentation, or unresolved adverse entries on the credit report such as defaults or settled accounts. PTB will communicate the specific reason in writing within 5 business days. It is advisable to wait at least 90 days before reapplying to minimize the impact of multiple credit inquiries on your score.
+
+Q7. What is the maximum personal loan amount PTB offers?
+A: PTB offers personal loans up to $50,000 for eligible applicants. The exact amount sanctioned depends on your income, credit score, existing liabilities, and repayment capacity.
+
+Q8. Can a salaried and a self-employed person apply for a home loan together?
+A: Yes. PTB allows joint home loan applications. The income of up to 2 co-applicants can be combined to improve eligibility. Co-applicants must be immediate family members (spouse, parents, or adult children). Each co-applicant must individually complete the KYC and income documentation process.
+
+Q9. How is the EMI for a loan calculated?
+A: The EMI is calculated based on the loan principal, the interest rate, and the chosen tenure using the reducing balance method. As each EMI is paid, the outstanding principal reduces, and the interest component of subsequent EMIs decreases while the principal component increases. PTB's website and mobile app have an EMI Calculator tool where you can input the loan amount, rate, and tenure to get an instant EMI estimate.
+
+Q10. Is there a prepayment penalty on home loans?
+A: For floating rate home loans, there is no prepayment or foreclosure charge at any point during the loan tenure. For fixed rate home loans, a charge of 2% of the outstanding principal applies if the loan is prepaid within the 2-year lock-in period. After the lock-in period expires, no charges apply.
+
+Q11. Can I get a loan against my fixed deposit at PTB?
+A: Yes. PTB offers an Overdraft or Loan Against Fixed Deposit (LAFD) at a rate that is typically 1% to 2% above the FD interest rate. You can borrow up to 90% of the FD value. Since the FD serves as the collateral, the credit score requirement is relaxed for this product.
+
+Q12. What happens if I miss an EMI payment?
+A: A late payment penalty of 2% per month on the overdue EMI amount will be applied if the EMI remains unpaid beyond 7 calendar days from the due date. Additionally, the missed payment will be reported to the MCB credit bureau after 30 days and will negatively impact your credit score. Customers are encouraged to set up NACH auto-debit mandates to avoid missed payments.
+
+Q13. How do I check the status of my loan application?
+A: You can check your loan application status in real time by logging into the PTB Mobile App or Internet Banking portal and navigating to "My Applications." Alternatively, you can call the Loan Customer Service line at 1-800-PTB-LOAN or email loans@pinnacletrustbank.com with your Application Reference Number (ARN).
+
+Q14. Can I get a top-up loan on my existing home loan?
+A: Yes. If you have an active home loan with PTB and have made regular repayments for at least 12 months, you may be eligible for a top-up loan based on the current value of the property versus the outstanding loan balance. The top-up loan carries the same interest rate as your existing home loan and can be used for any purpose.
+
+Q15. What is the minimum down payment required for a home loan?
+A: For properties valued above $200,000, PTB finances up to 80% of the property value, meaning the buyer must contribute at least 20% as a down payment from their own funds. For properties valued below $200,000, PTB can finance up to 90%, requiring a minimum 10% down payment. The down payment cannot be funded through another loan.
+
+
+SECTION B: INTEREST RATES AND CHARGES
+---------------------------------------
+
+Q16. What is the current home loan interest rate?
+A: PTB's floating home loan interest rates currently range from 8.25% to 10.75% per annum, depending on the loan amount, credit profile, and property type. Fixed rate options are available at 9.00% to 11.50% p.a. with a 2-year lock-in. Rates are subject to periodic revisions. For the most current rate applicable to your profile, contact the Home Loans desk or use the Rate Estimator on the website.
+
+Q17. Do senior citizens get a better interest rate on fixed deposits?
+A: Yes. Senior citizens aged 60 years and above receive an additional 0.50% per annum over the standard published rates on all FD tenures. PTB Super Senior Citizens aged 80 years and above receive an additional 0.75% per annum.
+
+Q18. What is the processing fee for a personal loan?
+A: The processing fee for a personal loan is 1.5% of the sanctioned loan amount plus applicable taxes. This fee is charged at the time of loan disbursement or may be deducted from the disbursed amount. It is non-refundable once the document verification process has commenced.
+
+Q19. Is there a penalty for closing a fixed deposit before maturity?
+A: Yes. A premature withdrawal penalty of 1% is applied to the interest rate that would have been applicable for the period the deposit was actually held. No interest is paid at all if the FD is closed within 7 days of opening. After 7 days, the applicable rate minus the 1% penalty is used to compute the interest payable.
+
+Q20. How is the interest on my savings account calculated?
+A: Interest is calculated on the daily closing balance in your savings account. The applicable rate depends on your daily balance tier: 3.50% p.a. for balances up to $50,000; 4.00% p.a. for balances between $50,001 and $500,000; and 4.50% p.a. for balances above $500,000. The calculated interest is credited to your account at the end of each calendar quarter.
+
+
+SECTION C: ACCOUNT OPERATIONS AND SERVICES
+--------------------------------------------
+
+Q21. What is the minimum balance I need to maintain in a savings account?
+A: For a Regular Savings Account, the minimum balance is $500 in urban branches and $250 in semi-urban and rural branches. For a Premium Savings Account, the minimum is $2,500 (urban) or $1,500 (semi-urban/rural). Zero-balance accounts are available under the Jan Dhan scheme for eligible customers.
+
+Q22. What are the charges if I do not maintain the minimum balance?
+A: A quarterly non-maintenance charge of $25 is levied on savings accounts and $50 on current accounts where the minimum balance requirement is not met. Customers receive advance SMS and email notifications 30 days before charges are applied. No charges are levied during the first quarter after account opening.
+
+Q23. How do I reactivate my dormant account?
+A: To reactivate a dormant account, visit your home branch with a valid government-issued photo ID and a recent address proof. Submit a written request for reactivation signed by the account holder. In some cases, a fresh KYC update may be required. The account is typically reactivated on the same day or the next business day.
+
+Q24. Can I open a zero-balance account at PTB?
+A: Yes. PTB offers zero-balance Basic Savings Accounts under the Jan Dhan financial inclusion scheme for eligible individuals. These accounts have no minimum balance requirement but come with certain transaction limitations. Speak to a branch officer to check if you qualify.
+
+Q25. How do I add or change a nominee on my account?
+A: You can add or update a nominee through PTB Internet Banking or the Mobile App under "Account Services — Manage Nominee." You can also visit any PTB branch and submit a signed Nomination Form (Form DA-1). Changes take effect within 1 business day.
+
+Q26. How do I close my PTB account?
+A: To close a savings or current account, visit your home branch and submit a signed Account Closure Request Form along with your debit card (cut in half), unused cheque leaves, and a final settlement preference (cash for amounts below $5,000 or account transfer for larger amounts). Accounts with active loans, standing instructions, or pending dues cannot be closed until those are settled.
+
+Q27. Can I have joint accounts at PTB? What are the modes of operation?
+A: Yes. PTB offers joint accounts with up to 3 account holders. Available operation modes are: Either or Survivor (EOS), where any one holder can operate the account independently; Anyone or Survivor; and Joint (requiring all holders to sign for every transaction). The mode is selected at the time of account opening and can be changed only with the consent of all joint holders.
+
+Q28. What is the process for updating my mobile number or email address?
+A: You can update your mobile number and email address through PTB Internet Banking under "Profile Settings" using OTP verification. Alternatively, visit any PTB branch with your identity proof and a signed request letter. Mobile number updates require physical branch verification if the change is from a number already linked to another PTB account.
+
+
+SECTION D: DIGITAL BANKING AND CARDS
+--------------------------------------
+
+Q29. What is the daily UPI transaction limit?
+A: The daily UPI transaction limit is $100,000 across all UPI-linked accounts. The per-transaction limit is $10,000. These limits are set by PTB in line with MFRA guidelines and cannot be customized beyond this ceiling.
+
+Q30. How do I block my debit card if it is lost or stolen?
+A: You can immediately block your debit card through the PTB Mobile App under "Cards — Block Card," through Internet Banking under "Card Services," or by calling the 24/7 Fraud Hotline at 1-800-PTB-SAFE. Blocking is instant. You can request a replacement card at your home branch or through the app. A replacement fee of $10 applies.
+
+Q31. I received an OTP for a transaction I did not initiate. What should I do?
+A: Do NOT share the OTP with anyone. Immediately call the 24/7 Fraud Hotline at 1-800-PTB-SAFE (1-800-782-7233). Do not call back any number that may have contacted you claiming to be from PTB. Change your internet banking password immediately. PTB's fraud team will investigate and freeze the account if necessary.
+
+Q32. Can I transfer money via RTGS through the PTB mobile app?
+A: Yes. RTGS transfers can be initiated through the PTB Mobile App and Internet Banking portal. The minimum RTGS amount is $200,000 per transaction. RTGS transfers are processed in real time during RTGS operating hours, which are 7:00 AM to 6:00 PM on business days.
+
+Q33. How do I reset my internet banking password?
+A: Click "Forgot Password" on the PTB Internet Banking login page. You will be asked to enter your User ID and verify your identity using an OTP sent to your registered mobile number. After verification, you can set a new password. If you are locked out due to multiple failed attempts, call PTB Technical Support at 1-800-PTB-TECH.
+
+Q34. Can I use my PTB debit card for international transactions?
+A: International usage is disabled by default on PTB debit cards as a security measure. You can temporarily enable it for a specific travel period through the PTB Mobile App under "Card Controls — Enable International Usage." Remember to disable it again when you return to prevent unauthorized international charges.
+
+Q35. Why was my online transaction declined even though I have sufficient balance?
+A: Possible reasons include: the daily transaction limit has been reached, international usage is disabled, the card is blocked, the merchant's payment gateway is experiencing issues, the card has not been activated for online transactions, or the CVV or OTP was entered incorrectly. Check your card settings in the app or call the 24/7 Helpline for assistance.
+
+
+SECTION E: COMPLAINTS AND GRIEVANCES
+--------------------------------------
+
+Q36. How do I raise a complaint if I am not satisfied with the service?
+A: Complaints can be raised through any of the following channels: In person at any PTB branch, by calling 1-800-PINNACLE, by emailing grievance@pinnacletrustbank.com, through the PTB Mobile App under "Support — Raise a Complaint," or through the website at www.pinnacletrustbank.com/support. You will receive a complaint reference number within 24 hours.
+
+Q37. How long does PTB take to resolve a complaint?
+A: PTB targets resolution of all Level 1 complaints within 7 business days. If additional time is needed, you will be proactively notified. If unresolved at Level 1, escalation to the Nodal Officer targets resolution within 14 additional business days.
+
+Q38. My EMI was debited twice this month. How do I get a refund?
+A: This is a high-priority issue. Raise a complaint immediately through any available channel with your loan account number, the dates of both debits, and the transaction reference numbers. PTB will investigate and if the duplicate debit is confirmed, the excess amount will be refunded to your account within 5 business days along with applicable interest for the period the funds were incorrectly held.
+
+Q39. Can I contact the Banking Ombudsman directly without first complaining to PTB?
+A: The MFRA Banking Ombudsman generally requires that you first submit a formal complaint to PTB and wait either for a response or for 30 calendar days to pass without a satisfactory resolution before approaching the Ombudsman. However, in cases of severe or urgent issues, the Ombudsman's office can provide guidance on the appropriate course of action.
+
+Q40. Who is the Nodal Officer and how do I contact them?
+A: The Nodal Officer for Pinnacle Trust Bank is Ms. Sophia Ramirez, Head of Customer Affairs. She can be reached at nodalofficer@pinnacletrustbank.com or by phone at +1-212-400-9100 during business hours (Monday to Friday, 9:00 AM to 5:00 PM). Escalate to the Nodal Officer only if your complaint has not been resolved within 7 business days at Level 1.
+
+
+SECTION F: NRI AND FOREIGN EXCHANGE
+-------------------------------------
+
+Q41. Can an NRI open a fixed deposit at PTB?
+A: Yes. NRI customers can open NRE (Non-Resident External) and NRO (Non-Resident Ordinary) Fixed Deposits at PTB. NRE FD interest is tax-free in Metropolis and fully repatriable. NRO FD interest is subject to tax deduction at source (TDS). FCNR (Foreign Currency Non-Resident) deposits are also available in major currencies including USD, GBP, EUR, and AUD.
+
+Q42. How do I send money from my PTB account to a foreign country?
+A: International outward remittances can be initiated through PTB Internet Banking under "International Transfers" for pre-registered overseas accounts, or by visiting any Forex-authorized PTB branch. You will need to provide the beneficiary's bank details (SWIFT/BIC code, IBAN, and bank address), a FEMA declaration form, and supporting documents for transfers above $5,000 in a financial year. Transaction fees range from $10 to $40 depending on the destination.
+
+Q43. How long does an inward international remittance take to credit?
+A: Inward remittances received via SWIFT are typically credited to your account within 1 to 3 business days after PTB receives the funds from the correspondent bank. Any delays beyond 3 business days should be reported to the NRI Services desk at nri@pinnacletrustbank.com or +1-212-400-8800.
+
+Q44. Can I convert my resident savings account to an NRO account after moving abroad?
+A: Yes. Residents who have moved abroad and obtained non-resident status must convert their existing savings account to an NRO account. Visit any PTB branch or contact the NRI Services desk. You will need to submit proof of change in residential status (such as a work visa, resident permit, or proof of employment abroad) along with a fresh KYC update.
+
+
+SECTION G: GENERAL AND MISCELLANEOUS
+--------------------------------------
+
+Q45. Is my money safe at PTB? What is the deposit insurance coverage?
+A: Yes. PTB is a member of the National Deposit Insurance Corporation (NDIC), which provides deposit insurance coverage of up to $250,000 per depositor per bank. This means your deposits (savings, current, FD, RD, and other eligible deposits) are protected up to this amount even in the unlikely event of the bank's failure. Amounts above $250,000 are not covered by NDIC insurance.
+
+Q46. What is PTB's IFSC or SWIFT code?
+A: PTB's SWIFT code for international wire transfers is PINNMPMC. The IFSC codes for individual branches are listed on the PTB website under each branch's profile page at www.pinnacletrustbank.com/branches. The IFSC code is also printed on your cheque book and on your account statement.
+
+Q47. How do I get a bank account statement?
+A: Account statements can be downloaded in PDF format from PTB Internet Banking or the Mobile App under "Statements" for any date range up to 10 years. You can also request a physical statement at any branch. If you need a stamped and signed physical statement for official purposes (such as a visa application), request it at your home branch. A charge of $10 applies for physical statements beyond the first 2 free requests per year.
+
+Q48. What are PTB's branch working hours?
+A: Most PTB branches are open Monday to Saturday from 9:30 AM to 4:30 PM. Some branches in commercial areas and shopping centers have extended hours of 9:00 AM to 6:00 PM. All branches are closed on Sundays and gazetted public holidays. ATMs and digital banking services are available 24/7. Check the Branch Locator on the website for the specific hours of your nearest branch.
+
+Q49. How do I update my KYC details at PTB?
+A: KYC updates can be done online through PTB Internet Banking using the "Update KYC" option, which uses Video KYC (V-KYC) technology for identity verification from the comfort of your home. Alternatively, visit any PTB branch with your current identity proof, address proof, and recent photograph. KYC must be periodically updated: every 2 years for high-risk accounts, every 8 years for medium-risk accounts, and every 10 years for low-risk accounts.
+
+Q50. Does PTB offer any special banking services for senior citizens?
+A: Yes. PTB has a dedicated Senior Citizen Banking program that includes: a dedicated helpline at 1-800-PTB-CARE, higher interest rates on savings accounts and FDs, priority service at all branches, doorstep banking for basic services like cheque pickup and cash delivery (available in select cities), simplified account opening with minimal documentation, higher ATM withdrawal limits on request, and free accident insurance coverage up to $25,000 for all senior citizen account holders above 60 years of age.
+
+Q51. Can I get a cheque book for my PTB savings account?
+A: Yes. A cheque book can be requested through the PTB Mobile App or Internet Banking under "Services — Request Cheque Book." The first cheque book of 20 leaves per year is free. Additional cheque books are available at $10 each. Cheques are typically delivered to your registered address within 5 to 7 business days.
+
+Q52. How do I report the death of an account holder to PTB?
+A: The legal heir or nominee should visit the home branch of the deceased account holder and submit a certified copy of the death certificate, the claimant's identity proof and address proof, and the completed Claim Form PTB-CLM-01. If a nominee has been registered, the process is straightforward and funds are released within 15 business days. If no nominee was registered, a succession certificate or probate of will may be required, which can take longer.
+
+
+================================================================================
+END OF DOCUMENT
+================================================================================
+Document Reference: PTB-POL-2025-V4.2
+Issued By: Compliance and Policy Division, Pinnacle Trust Bank PLC
+Next Scheduled Review: December 31, 2025
+For the latest version, visit: www.pinnacletrustbank.com/policies
+================================================================================
